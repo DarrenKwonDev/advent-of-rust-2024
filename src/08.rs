@@ -29,8 +29,3 @@ impl<'a> LogQuery<'a> {
         Ok(())
     }
 }
-
-
-fn main() {
-    
-}
